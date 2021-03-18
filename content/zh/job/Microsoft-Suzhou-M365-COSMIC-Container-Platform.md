@@ -1,5 +1,5 @@
 ---
-title: "[社招] 微软苏州Microsoft 365部门容器化平台岗位招聘信息"
+title: "[社招] 微软苏州Microsoft365 容器化平台岗位招聘信息"
 date: 2021-03-18T18:58:03+08:00
 draft: false
 bg_image: "images/backgrounds/page-title.jpg"
