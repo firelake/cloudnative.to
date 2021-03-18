@@ -32,4 +32,4 @@ Containerize and moving to Azure Kubernetes Service is critical for Microsoft 36
 
 #### 投递简历
 
-欢迎[邮件简历](mailto:yawa@microsoft.com)  :-)
+yawa AT microsoft.com  :-)
