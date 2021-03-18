@@ -7,7 +7,7 @@ description: "Base 地：苏州"
 type: "notice"
 ---
 
-### 微软苏州M365简介
+### 微软苏州M365 COSMIC简介
 
 Enterprise customer and consumers are rapidly adopting Microsoft 365 Cloud services. Delivering on those online services requires building, maintaining, and securing cloud capacity at very large scale worldwide. Microsoft 365 is partnering with other organizations across Microsoft such as Bing, and Azure to deliver on common cloud infrastructure. Hosting customer data in the cloud mandates meeting several security compliance standards requirements. Every year there are dozens of high profile stories about companies losing customer data after their networks were compromised. Securing our customers’ data against such an attack is an ongoing mission for Microsoft 365. 
 
